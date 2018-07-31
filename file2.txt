@@ -1,1 +1,1 @@
-new branch A
+new branch B
